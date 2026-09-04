@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nandarina7PNU
 
 repo_description_lines_max: 2
 
+# Add repositories here as you build things up, e.g.
+#   - nandarina7PNU/some-project
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
